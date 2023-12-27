@@ -1,0 +1,15 @@
+{
+    "name": "marcio/algorithm",
+    "autoload": {
+        "psr-4": {
+            "Algorithm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "marcio1002",
+            "email": "marcioalemao1999@yahoo.com"
+        }
+    ],
+    "require": {}
+}
